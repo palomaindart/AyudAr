@@ -1,0 +1,11 @@
+ejercicios del curso :
+var sig = siguiente
+var log = console.log
+var consola = {
+atributo : console.log
+}
+
+function operar(fun,numero){
+resultado = fun(numero)
+return resultado
+}

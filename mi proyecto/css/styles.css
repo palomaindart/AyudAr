@@ -1,0 +1,32 @@
+h1{
+    background-color: green;
+    font-family: cursive;
+}
+.color{
+    background-color: red;
+    font-family: cursive;
+}
+
+p{
+    color: orange;
+    font-family: cursive;
+      
+}
+.hello{
+    background-color: aqua;
+    font-family: cursive;
+}
+header{
+    background-color: orange;
+    text-align: center;
+    font-family: cursive;
+}
+footer{
+    background-color: blue;
+    color: orange;
+    font-family: cursive;
+}
+main{
+    border-width: 80px;
+    color:black;
+}
