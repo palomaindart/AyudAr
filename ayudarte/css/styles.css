@@ -1,0 +1,18 @@
+.nav1 {
+    text-align: center;
+    display: flexbox;
+    padding: 5px;
+    border: 0 none;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 40px;
+    background-color:#FF9B71;
+    }
+.nav1 a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 30px;
+    color: rgb(15, 15, 15);
+}
